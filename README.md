@@ -38,7 +38,6 @@ make install
  This module made from glibc. Original glibc licence is under.
 
 ```
- *
  * Copyright (C) 1991-2018 Free Software Foundation, Inc.
  *
  * This library is free software; you can redistribute it and/or
