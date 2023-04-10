@@ -51,7 +51,7 @@ Crypt::glibc - Perl extension for glibc crypt
 	DES	Crypt::glibc::crypt($key, "sa");
 	MD5	Crypt::glibc::crypt($key, "$1$saltsalt");
 	SHA256	Crypt::glibc::crypt($key, "$5$saltstring");
-	SHA512	Crypt::glibc::crypt($key, "$5$saltstring");
+	SHA512	Crypt::glibc::crypt($key, "$6$saltstring");
 
 =head1 DESCRIPTION
 
